@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\God\Desktop\DeskClockApp-4-101\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d15f03fc54ac2862361fd16e292421ac1699cc6e">
+        <dex dex="C:\Users\God\Desktop\DeskClockApp-4-101\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b6ecfcf271c1027fb1387391459ee4f4871e2a02.jar" />
+    </item>
+    <item
+        jar="C:\Users\God\Desktop\DeskClockApp-4-101\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d375870dcedb1761468bd43024ec500b57e9b973">
+        <dex dex="C:\Users\God\Desktop\DeskClockApp-4-101\app\build\intermediates\pre-dexed\debug\instant-run_bbc95719e34e110c3732d6936a3c56402921fc9c.jar" />
+    </item>
+
+</items>

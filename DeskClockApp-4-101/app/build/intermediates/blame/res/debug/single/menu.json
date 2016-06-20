@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\desk_clock_menu.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\menu\\desk_clock_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\alarm_list_menu.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\menu\\alarm_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\menu\\context_menu.xml"
+    }
+]

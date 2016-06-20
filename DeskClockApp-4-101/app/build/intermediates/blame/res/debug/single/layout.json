@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_alarm.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\layout\\set_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_clock.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\layout\\alarm_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\context_menu_header.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\layout\\context_menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_alert.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\layout\\alarm_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alarm_time.xml",
+        "source": "C:\\Users\\God\\Desktop\\DeskClockApp-4-101\\app\\src\\main\\res\\layout\\alarm_time.xml"
+    }
+]

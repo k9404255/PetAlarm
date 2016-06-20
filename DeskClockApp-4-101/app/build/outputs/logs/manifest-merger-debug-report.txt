@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:2:1-116:12
+	package
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:7:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml
+original-package
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:9:23-61
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.DEVICE_POWER
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:17:5-71
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:17:22-68
+application
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:19:5-114:19
+	android:label
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:20:9-48
+provider#com.cn.daming.deskclock.AlarmProvider
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:23:9-25:44
+	android:authorities
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:24:17-62
+	android:exported
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:25:17-41
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:23:19-47
+activity#com.cn.daming.deskclock.DeskClockMainActivity
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:27:9-44:20
+	android:label
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:28:13-45
+	android:launchMode
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:32:13-48
+	android:configChanges
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:33:13-83
+	android:icon
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:31:13-52
+	android:theme
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:30:13-70
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:29:13-50
+meta-data#android.dock_home
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:36:13-80
+	android:value
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:36:57-77
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:36:24-56
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.DESK_DOCK+android.intent.category.LAUNCHER
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:38:13-43:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.DESK_DOCK
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:40:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:41:27-73
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.cn.daming.deskclock.SetAlarm
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:46:9-47:90
+	android:label
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:46:43-76
+	android:configChanges
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:47:17-87
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:46:19-42
+activity#com.cn.daming.deskclock.SettingsActivity
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:49:9-57:20
+	android:label
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:50:17-49
+	android:excludeFromRecents
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:52:17-50
+	android:taskAffinity
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:51:17-40
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:49:19-50
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:54:13-56:29
+activity#com.cn.daming.deskclock.AlarmAlertFullScreen
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:59:8-64:84
+	android:excludeFromRecents
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:60:12-45
+	android:launchMode
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:62:12-47
+	android:configChanges
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:64:12-82
+	android:theme
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:61:12-69
+	android:taskAffinity
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:63:12-35
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:59:18-53
+receiver#com.cn.daming.deskclock.AlarmReceiver
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:66:9-72:20
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:66:19-47
+intent-filter#alarm_killed+cancel_snooze+com.cn.daming.deskclock.ALARM_ALERT
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:67:13-71:29
+action#com.cn.daming.deskclock.ALARM_ALERT
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:68:17-78
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:68:25-75
+action#alarm_killed
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:69:17-55
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:69:25-52
+action#cancel_snooze
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:70:17-56
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:70:25-53
+activity#com.cn.daming.deskclock.AlarmAlert
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:74:9-79:85
+	android:excludeFromRecents
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:75:13-46
+	android:launchMode
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:77:13-48
+	android:configChanges
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:79:13-83
+	android:theme
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:76:13-47
+	android:taskAffinity
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:78:13-36
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:74:19-44
+activity#com.cn.daming.deskclock.HandleSetAlarm
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:82:9-90:20
+	android:excludeFromRecents
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:84:17-50
+	android:permission
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:85:17-76
+	android:theme
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:83:17-63
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:82:19-48
+intent-filter#android.intent.action.SET_ALARM+android.intent.category.DEFAULT
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:86:13-89:29
+action#android.intent.action.SET_ALARM
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:87:17-74
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:87:25-71
+service#com.cn.daming.deskclock.AlarmKlaxon
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:98:9-104:19
+	android:description
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:99:17-72
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:98:18-44
+intent-filter#com.cn.daming.deskclock.ALARM_ALERT
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:101:13-103:29
+receiver#com.cn.daming.deskclock.AlarmInitReceiver
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:106:9-113:20
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:106:19-51
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.LOCALE_CHANGED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:107:13-112:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:108:17-79
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:108:25-76
+action#android.intent.action.TIME_SET
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:109:17-73
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:109:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:110:17-81
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:110:25-78
+action#android.intent.action.LOCALE_CHANGED
+ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:111:17-79
+	android:name
+		ADDED from C:\Users\God\Desktop\DeskClockApp-4-101\app\src\main\AndroidManifest.xml:111:25-76
